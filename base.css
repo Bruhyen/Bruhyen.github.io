@@ -1,0 +1,12 @@
+html, body{
+    height: 100%;
+    width:  100%;
+}
+body{
+    background-color: black;
+    color: lime;
+}
+.header-bar{
+    height: 64px;
+    width: 100%;
+}
